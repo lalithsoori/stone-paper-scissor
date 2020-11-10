@@ -34,3 +34,7 @@ img:hover {
   margin: 0;
   display: inline-grid;
 }
+
+hr{
+  background: white;
+}
